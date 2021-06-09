@@ -1,4 +1,4 @@
-## Pre-steps
+## How to:
 1. Install a ChromeDriver from right here: https://chromedriver.chromium.org/downloads
 2. Remember where you saved the ChromeDriver.
 3. You should also have Google Chrome installed.
